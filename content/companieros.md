@@ -1,4 +1,6 @@
 Title: Rencontre avec Companieros
+tags: osef
+category: autre
 Slug: rencontre-avec-companieros
 Date: 2016-04-04
 

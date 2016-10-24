@@ -1,4 +1,6 @@
 Title: Barbecues d'intégration
+category: autre
+tags: temporaire
 Slug: barbecues-integration
 Date: 2016-09-12
 

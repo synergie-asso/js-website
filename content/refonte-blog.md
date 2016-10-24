@@ -1,4 +1,6 @@
 Title: Refonte
+tags: temporaire
+category: autre
 Slug: refonte
 Date: 2016-09-04
 
