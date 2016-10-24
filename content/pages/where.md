@@ -4,20 +4,19 @@ Title: Accès
 
 Les Journées Synergiques ont lieu sur le campus de l'EPITA.
 
-Synergie
-14-16 rue Voltaire
+Synergie  
+14-16 rue Voltaire  
 94270 Kremlin-Bicêtre
 
 ## Venir en métro
-Métro
-- ligne 7 : Porte d'Italie ou Kremlin-Bicêtre
+Métro ligne 7 : Porte d'Italie ou Kremlin-Bicêtre
 
 ## Venir en Bus
-- lignes 47, 125, 131, 185 : Roger Salengro
-- ligne 186 : Pierre Brossolette
+Lignes 47, 125, 131, 185 : Roger Salengro  
+Ligne 186 : Pierre Brossolette
 
 ## Venir en Voiture
-- périphérique : sortie Porte d'Italie
+Périphérique : sortie Porte d'Italie
 
 # Plan d'accès 
 

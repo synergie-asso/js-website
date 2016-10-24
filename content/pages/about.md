@@ -1,3 +1,5 @@
+Title: À Propos
+
 # Les Journées Synergiques
 
 Les Journées Synergiques sont des journées d'initiation à l'informatique organisées par Synergie. Elles sont à l'attention d'élèves au collège afin d'aborder ces domaines qui nous passionne en tant qu'étudiants, de manière introductive adaptée à un public néophyte.
