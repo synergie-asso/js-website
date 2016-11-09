@@ -25,8 +25,9 @@ RELATIVE_URLS = True
 
 # Content
 USE_FOLDER_AS_CATEGORY = False
+DISPLAY_PAGES_ON_MENU = True
 
-
+# Theme-related
 def sidebar(value):
   if value.startswith('archives') or value.startswith('category'):
     return 'right-sidebar'
@@ -37,4 +38,6 @@ def sidebar(value):
 
 JINJA_FILTERS = {'sidebar': sidebar}
 THEME_STATIC_DIR = ''
-
+SOCIAL = (('github', 'http://github.com/synergie-asso'),
+        ('facebook', 'http://facebook.com/synergie.io'),
+        ('twitter', 'http://twitter.com/synergieio'))
