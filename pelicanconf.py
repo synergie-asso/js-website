@@ -8,7 +8,7 @@ SITEURL = ''
 DESCRIPTION = 'Ateliers d\'initiation aux métiers de l\'informatique'
 
 PATH = 'content'
-THEME = 'themes/medius'
+THEME = 'themes/synergie-twenty'
 
 LOCALE = ("fr_FR")
 TIMEZONE = 'Europe/Paris'
@@ -25,3 +25,16 @@ RELATIVE_URLS = True
 
 # Content
 USE_FOLDER_AS_CATEGORY = False
+
+
+def sidebar(value):
+  if value.startswith('archives') or value.startswith('category'):
+    return 'right-sidebar'
+  elif value == 'index':
+    return 'index'
+  else:
+    return 'no-sidebar'
+
+JINJA_FILTERS = {'sidebar': sidebar}
+THEME_STATIC_DIR = ''
+
