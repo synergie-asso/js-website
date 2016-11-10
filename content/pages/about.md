@@ -1,6 +1,6 @@
 Title: À Propos
 
-# Les **Journées Synergiques**, le projet
+## Les **Journées Synergiques**, le projet
 
 Les Journées Synergiques sont des journées d'initiation à l'informatique organisées
 par Synergie. Elles sont à l'attention d'élèves au collège afin d'aborder ces
@@ -15,7 +15,7 @@ Pour l'année 2017, nous aborderons six ateliers :
 * Jeux vidéos
 * Web 
 
-# **Synergie**, l'association
+## **Synergie**, l'association
 
 Synergie est une association créée en mars 2015 afin d’améliorer l’image des métiers
 du numérique auprès des jeunes et ainsi atténuer les stéréotypes et les clivages
@@ -28,7 +28,7 @@ auxquels se raccrocher.
 
 En savoir plus sur [synergie.epita.fr](http://synergie.epita.fr)
 
-# Contact
+## Contact
 
 * mail: <a href="mailto:contact@synergie.epita.fr">contact@synergie.epita.fr</a>
 * facebook: [Synergie](https://www.facebook.com/synergie.io/?fref=ts)

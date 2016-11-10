@@ -1,5 +1,7 @@
 Title: Programme
 
+## Programme
+
 // TODO: Add dates.
 
 Le déroulement type d'une Journée Synergique est le suivant :
