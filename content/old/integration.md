@@ -1,6 +1,6 @@
 Title: Barbecues d'intégration
-category: autre
-tags: temporaire
+category: old
+tags: osef, temporaire
 Slug: barbecues-integration
 Date: 2016-09-12
 

@@ -1,6 +1,6 @@
 Title: Refonte
-tags: temporaire
-category: autre
+tags: temporaire, osef
+category: old
 Slug: refonte
 Date: 2016-09-04
 

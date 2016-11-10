@@ -1,7 +1,7 @@
 Title: Rencontre avec Companieros
 Subtitle: Des formations subtitle nul
-tags: osef
-category: autre
+tags: old, osef
+category: old
 Slug: rencontre-avec-companieros
 Date: 2016-04-04
 
