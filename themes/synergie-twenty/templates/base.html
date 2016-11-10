@@ -38,7 +38,7 @@
     <!-- Header -->
     <header id="header" {% if page_name == 'index' %}class="alt"{% endif %}>
         <h1 class="logo">
-            <a href="{{ SITEURL }}">{{ SITENAME }}, design Twenty <span> by html5 up</span></a>
+            <a href="{{ SITEURL }}">{{ SITENAME }}<span> par Synergie</span></a>
         </h1>
         <nav id="nav">
             <ul>
@@ -63,7 +63,7 @@
                         {% endfor %}
                     </ul>
                 </li>
-                <li><a href="#" class="button special">Sign Up</a></li>
+                <li><a href="{{ SITEURL}}/pages/inscription.html" class="button special">S'inscrire</a></li>
             </ul>
         </nav>
     </header>
