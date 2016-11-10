@@ -10,7 +10,7 @@
 /* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #e1f9e4;
+		background: #f6fcf7;
 	}
 
 	body.loading * {
@@ -41,7 +41,7 @@
 		-o-transition: all 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out;
 		transition: all 0.2s ease-in-out;
-		color: #3fb1a3;
+		color: #71bc60;
 		text-decoration: none;
 		border-bottom: dotted 1px;
 	}
@@ -202,7 +202,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #83d3c9;
+			border-color: #83d383;
 		}
 
 	input[type="text"],
@@ -554,7 +554,7 @@
 			.wrapper.style2 .button.special {
 				background: white;
 				border-color: white;
-				color: #83d3c9 !important;
+				color: #83d383 !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
@@ -613,7 +613,7 @@
 
 			#header nav ul li {
 				display: inline-block;
-				margin-left: 1.5em;
+				margin-left: 0.5em;
 			}
 
 				#header nav ul li > ul {
@@ -734,7 +734,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				background: #83d383;
 				color: white;
 			}
 
@@ -773,7 +773,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(0, 0, 0, 0.6);
+			background: rgba(0, 0, 0, 0.4);
 			color: white;
 			display: inline-block;
 			opacity: 0;
@@ -852,7 +852,7 @@
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../images/banner.png");
+		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../images/js_banner.png");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
