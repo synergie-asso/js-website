@@ -8,10 +8,11 @@
 ## Prio 2
 
 - Add (or remove) subtitles
+- Change the <li> css (need to see the list + have a margin)
 
 ## Prio 3
 
-- Intégrer "disqus" pour avoir les commentaires
+- Intégrate "disqus" to get comment
 
 
 # IDEAS
