@@ -41,7 +41,7 @@
 
 {% if DISQUS_SITENAME %}
   <div id="comments">
-      <h2 class="space-above">Comments</h2>
+      <h2 class="space-above">Commentaires</h2>
       <div id="disqus_thread"></div>
       <script type="text/javascript">
           var disqus_identifier = "{{ article.url }}";
@@ -53,7 +53,7 @@
               (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
           })();
       </script>
-      <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
+      <noscript>Activez le javascript pour voir les <a href="http://disqus.com/?ref_noscript">commentaires</a>.</noscript>
   </div>
 {% endif %}
 

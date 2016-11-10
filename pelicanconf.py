@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Synergie'
-SITENAME = 'Journées Synergiques'
+SITENAME = 'Les Journées Synergiques'
 SITEURL = ''
 DESCRIPTION = 'Ateliers d\'initiation aux métiers de l\'informatique'
 
