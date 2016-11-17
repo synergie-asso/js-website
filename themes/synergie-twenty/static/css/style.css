@@ -130,6 +130,15 @@ section.special, article.special {
 
 header.major {
   padding-bottom: 2em;
+  background-image: url(../images/syn_logo.png);
+  background-repeat: no-repeat;
+  background-size: 120px;
+}
+
+header.major h2 {
+  padding-bottom: 0.8em;
+  padding-top: 1em;
+  background-position: 0 -50;
 }
 
 header.special {
