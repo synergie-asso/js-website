@@ -27,7 +27,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #7c8081;
+		color: #606364;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -41,7 +41,7 @@
 		-o-transition: all 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out;
 		transition: all 0.2s ease-in-out;
-		color: #71bc60;
+		color: #36AD25;
 		text-decoration: none;
 		border-bottom: dotted 1px;
 	}
@@ -64,6 +64,11 @@
 		line-height: 1.75em;
 		margin-bottom: 1em;
 		text-transform: uppercase;
+		font-family: 'Inconsolata', monospace;
+	}
+	h1 strong, h1 b, h2 strong, h2 b, h3 strong, h3 b, h4 strong, h4 b,
+    h5 strong, h5 b, h6 strong, h6 b {
+		font-weight: 700;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -72,13 +77,17 @@
 			border: 0;
 		}
 
+h1 {
+		font-size: 1.80em;
+}
+
 	h2 {
-		font-size: 1.5em;
 		letter-spacing: 0.1em;
+		font-size: 1.60em;
 	}
 
 	h3 {
-		font-size: 1.15em;
+		font-size: 1.40em;
 		letter-spacing: 0.025em;
 	}
 
@@ -141,6 +150,7 @@
 		}
 
 		header.special h2 {
+		font-size: 1.8em;
 			margin-bottom: 0;
 		}
 
@@ -752,7 +762,8 @@
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/js_banner.png");
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"),
+    url("images/overlay.png"), url("../images/js_banner_blur.png");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -773,7 +784,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(0, 0, 0, 0.4);
+			background: rgba(0, 20, 0, 0.3);
 			color: white;
 			display: inline-block;
 			opacity: 0;
@@ -852,7 +863,7 @@
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../images/js_banner.png");
+		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../images/js_banner_blur.png");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
