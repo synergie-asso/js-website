@@ -41,5 +41,4 @@ THEME_STATIC_DIR = ''
 SOCIAL = (('github', 'http://github.com/synergie-asso'),
         ('facebook', 'http://facebook.com/synergie.io'),
         ('twitter', 'http://twitter.com/synergieio')
-        ('synergie', 'http://synergie.epita.fr')
         )
