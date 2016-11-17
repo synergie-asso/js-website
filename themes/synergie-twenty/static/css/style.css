@@ -291,7 +291,17 @@ h1 {
 
 	.icon {
 		position: relative;
+				color: white;
 	}
+
+.synergieicon {
+				background: rgba(255, 255, 255, 0.95);
+        margin-top:6px
+  }
+
+.synergieicon:hover {
+				background: white;
+      }
 
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
