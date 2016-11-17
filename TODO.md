@@ -2,22 +2,19 @@
 
 ## Prio 1
 
-- Add Synergie's logo
-- Add images for pages
 - Add content: FAQ & article ==> update index with the different articles
+- Find a way to have the date in FR
 
 ## Prio 2
 
-- Add (or remove) subtitles
 - Change the css (need to see the list + have a margin)
-- Change footer bg color & accord to global bgcolor
-- Find a way to have the date in FR
+- Modify categories display?
 
 ## Prio 3
 
+- Add images for pages
 - Intégrate "disqus" to get comment
 - Add widescreen banners in other pages?
-- Change height of iframe (inscription form)
 
 
 # IDEAS
