@@ -161,6 +161,7 @@ header.special:after {
 header.special h2 {
   font-size: 1.8em;
   margin-bottom: 0;
+  color: #43ae25;
 }
 
 header.special h2 + p {
@@ -299,9 +300,19 @@ input[type="email"] {
   color: white;
 }
 
+
 .synergieicon {
   background: rgba(255, 255, 255, 0.95);
   margin-top:6px
+}
+
+#synergie_icon {
+  background-image: url("../images/synergie_icon.png");
+  display: inline-block;
+  height: 2.25em;
+  left: 0;
+  text-align: center;
+  width: 2.25em;
 }
 
 .synergieicon:hover {
