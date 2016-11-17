@@ -20,6 +20,7 @@
 - Intégrate "disqus" to get comment
 - Blur the banner
 - Add widescreen banners in other pages?
+- Change height of iframe (inscription form)
 
 
 # IDEAS
