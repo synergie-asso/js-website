@@ -21,4 +21,6 @@ xxx
 
 ### S'inscrire en ligne 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSciD8LMGUL-pYsDG88V1HhQ1G7NxtJoUuUfzYTpUqbCXSa-fg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
+<iframe style="width:100%;"
+src="https://docs.google.com/forms/d/e/1FAIpQLSciD8LMGUL-pYsDG88V1HhQ1G7NxtJoUuUfzYTpUqbCXSa-fg/viewform?embedded=true"
+height="1000" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
