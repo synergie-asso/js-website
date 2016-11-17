@@ -10,7 +10,7 @@
     <span class="icon fa-{{ article.icon }}"></span>
     <h2>{{ article.title }}</h2>
     <!-- add page sub title here -->
-    <p>Posté dans {{ article.locale_date }} par {{ article.author }}</p>
+    <p>Posté le {{ article.locale_date }} par {{ article.author }}</p>
     <p>{{ article.icon }}</p>
   </header>
 
@@ -21,7 +21,7 @@
         <div class="content">
           <section>
             <a href="#" class="image feature"><img src="images/{{ article.slug }}.jpg" alt="" /></a>
-            <h3>Posted in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></h3>
+            <h3>Posté dans <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></h3>
             <p class="tags">
             {% if article.tags %}
               {% for tag in article.tags %}
