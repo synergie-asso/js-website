@@ -20,7 +20,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 3
 RELATIVE_URLS = True
 
 # Content
@@ -40,4 +40,6 @@ JINJA_FILTERS = {'sidebar': sidebar}
 THEME_STATIC_DIR = ''
 SOCIAL = (('github', 'http://github.com/synergie-asso'),
         ('facebook', 'http://facebook.com/synergie.io'),
-        ('twitter', 'http://twitter.com/synergieio'))
+        ('twitter', 'http://twitter.com/synergieio')
+        ('synergie', 'http://synergie.epita.fr')
+        )

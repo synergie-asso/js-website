@@ -1,11 +1,22 @@
-Title: Inscription
+Title: Ouverture des inscriptions
 tags: inscription, rejoindre
 category: inscription
 slug: inscription
+Date: 2016-11-17
 
+Les inscriptions sont ouvertes !
 
 ## Procédure
 //TODO : Description de la procédure.
+
+Lorem ipsum xxxxxxxxxxxxxxxxxxxxxxxxxx
+ x x  x
+
+x xxx
+xx
+
+
+xxx
 
 
 ### S'inscrire en ligne 
