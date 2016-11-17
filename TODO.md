@@ -8,6 +8,7 @@
 
 ## Prio 2
 
+- Add Synergie's website in Footer
 - Add (or remove) subtitles
 - Change the css (need to see the list + have a margin)
 
