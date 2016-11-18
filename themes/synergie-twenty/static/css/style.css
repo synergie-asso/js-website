@@ -459,16 +459,18 @@ ul.icons li:first-child {
 ul.feature-icons {
   cursor: default;
   margin: -0.75em 0 0 0;
-  opacity: 0.35;
+  opacity: 0.75;
   overflow: hidden;
   position: relative;
+  padding:5px;
 }
 
 ul.feature-icons li {
   display: block;
-  float: left;
+  float: right;
   text-align: center;
-  width: 50%;
+  width: 80%;
+  background: rgba(0, 0, 0, 0.3);
 }
 
 ul.feature-icons li .icon {
@@ -595,6 +597,7 @@ table.default thead {
   background-repeat: no-repeat, no-repeat;
   background-size: 25em, 25em;
   color: white;
+  text-align: center;
 }
 
 .wrapper.style2 .button:hover {
