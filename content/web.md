@@ -1,8 +1,9 @@
 Title: Site Web
-tags: js, domaine, informatique, web, site
+tags: js, web, 2017
 category: 2017
 Slug: web
 Date: 2016-11-21
+Author: Juliette Garreau
 
 # C'est quoi, le web ?
 

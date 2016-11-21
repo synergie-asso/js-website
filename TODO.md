@@ -4,6 +4,7 @@
 
 - Add content: FAQ & article ==> update index with the different articles
 - Find a way to have the date in FR
+- Add links to gform & document of procedure in content/signup.md
 
 ## Prio 2
 

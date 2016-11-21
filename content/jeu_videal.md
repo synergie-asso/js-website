@@ -1,5 +1,5 @@
 Title: Jeu Vidéo
-tags: js, informatique, jeu, vidéo
+tags: js, 2017, jeu, vidéo
 category: 2017
 Slug: jeu-vidéo
 Date: 2016-11-21

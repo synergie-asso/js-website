@@ -1,11 +1,15 @@
-Title: Refonte
-tags: temporaire, osef
-category: old
-Slug: refonte
-Date: 2016-09-04
+Title: Création du site
+tags: blog
+category: blog
+Slug: création
+Date: 2016-11-18
+Author: Laure Daumal
 
-Un post pour vous annoncer la refonte du blog à l'aide de [Pelican](http://blog.getpelican.com/), un générateur de sites statiques en Python.
-En espérant que le nouveau design vous plaise !
+`Hello World !`  
 
-Un grand merci au CRI de l'EPITA pour nous avoir fourni notre nouveau nom de
-domaine [synergie.epita.fr](https://synergie.epita.fr).
+Ce site vient d'être finalisé à l'aide de
+[Pelican](http://blog.getpelican.com/), un générateur de sites statiques en
+Python. Merci à [FrankV](https://github.com/frankV) pour le partage de son
+modèle HTML5up.
+
+En espérant que ce design vous plaise !
