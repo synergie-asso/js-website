@@ -590,6 +590,10 @@ table.default thead {
   padding: 0;
 }
 
+.wrapper.style2 a {
+  color: white;
+}
+
 .wrapper.style2 {
   background-color: #83d383;
   background-image: url("images/light-bl.svg"), url("images/light-br.svg");
