@@ -10,7 +10,11 @@
     <span class="icon fa-mobile"></span>
     <h2>{{ category }}</h2>
     <!-- add page sub title here -->
-    <p>Category Template</p>
+    {% if category|string() == "blog" %}
+    <p>L'actualité de Synergie</p>
+    {% else %}
+      <p>Les Journées Synergiques édition {{ category }}</p>
+    {% endif %}
   </header>
 
   <!-- One -->
@@ -67,9 +71,6 @@
 
     </div>
   </section>
-
-  <!-- Two -->
-  {% include 'most_recent.html' %}
 
 </article>
 {% endblock content %}
