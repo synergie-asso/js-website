@@ -8,8 +8,9 @@
 
 ## Prio 2
 
-- Change the css (need to see the list + have a margin)
+- Change the css to see lists + have a margin
 - Modify categories display?
+- Center Synergie's logo in footer
 
 ## Prio 3
 
