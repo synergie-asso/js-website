@@ -37,7 +37,6 @@ def sidebar(value):
     return 'no-sidebar'
 
 JINJA_FILTERS = {'sidebar': sidebar}
-THEME_STATIC_DIR = ''
 SOCIAL = (('github', 'http://github.com/synergie-asso'),
         ('facebook', 'http://facebook.com/synergie.io'),
         ('twitter', 'http://twitter.com/synergieio')
