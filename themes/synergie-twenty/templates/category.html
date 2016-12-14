@@ -13,7 +13,7 @@
     {% if category|string() == "blog" %}
     <p>L'actualité de Synergie</p>
     {% else %}
-      <p>Les Journées Synergiques édition {{ category }}</p>
+    <p>Les Journées Synergiques édition {{ category }}</p>
     {% endif %}
   </header>
 
@@ -41,30 +41,70 @@
 
         <!-- Sidebar -->
         <div class="sidebar">
+          {% if category|string() == "blog" %}
+          <!-- Content if blog -->
           <section>
             <header>
-              <h3>Magna Feugiat</h3>
+              <h3>Les actualités des Journées Synergiques</h3>
             </header>
-            <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit..</p>
-            <footer>
-              <ul class="buttons">
-                <li><a href="#" class="button small">Learn More</a></li>
-              </ul>
+            <p>
+            C'est en voulant promouvoir l'informatique à tous que Synergie
+            s'est lancée en 2016 dans ce tout nouveau projet : Les Journées
+            Synergiques. L'association est peuplée d'étudiants ravis d'avoir
+            l'occasion de guider des novices et de les aider à découvrir
+            la programmation et son fonctionnemment. Depuis, nous préparons
+            cet événement afin d'offrir le meilleur cadre possible aux
+            intéressés et les faire repartir avec de super souvenirs !
+            </p>
+          </section>
+
+          <section>
+            <header>
+              <h3>Le blog de Synergie</h3>
+            </header>
+            <p>
+            Synergie est une association à but non lucratif créée en mars 2015
+            afin d'améliorer l’image des métiers du numérique auprès des jeunes
+            et ainsi atténuer les stéréotypes et les clivages du secteur.
+
+            Par le biais de l’association, nous souhaitons informer les jeunes
+            filles de la possibilité d’accéder à ces carrières et susciter de
+            l’intérêt pour l’informatique. Aussi, la diversité des membres de
+            notre association leur présente des modèles auxquels se raccrocher.
+            </p>
+            <li><a href="synergie.epita.fr" class="button small">Voir le
+                site officiel</a></li>
+            </ul>
             </footer>
           </section>
+
+          {% else %}
+          <!-- Content if not (JS edition) -->
 
           <section>
             <a href="#" class="image feature"><img src="images/pic04.jpg" alt="" /></a>
             <header>
-              <h3>Amet Lorem Tempus</h3>
+              <h3>Les Journées Synergiques édition {{ category }}</h3>
             </header>
-            <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+            <p>
+            Ca y est. Le projet est en marche. Les salles sont réservées,
+            l'équipe encadrante est prête, on a les sujets et l'environnement
+            nécessaire sur les machines. Il ne manque plus que vous !
+            </p>
+            <p>
+            Début 2017 auront lieu les premières journées synergiques. Tout
+            est gratuit et pris en charge par l'association et ses sponsors.
+            As-tu rempli ton inscription ?
+            </p>
             <footer>
               <ul class="buttons">
-                <li><a href="#" class="button small">Learn More</a></li>
+                <li><a href="{{ SITEURL }}/inscription.html"
+                    class="button small">S'inscrire</a></li>
               </ul>
             </footer>
           </section>
+
+          {% endif %}
         </div>
 
       </div>
