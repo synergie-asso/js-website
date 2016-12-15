@@ -10,51 +10,57 @@
     <span class="icon fa-{{ article.icon }}"></span>
     <h2>{{ article.title }}</h2>
     <!-- add page sub title here -->
-    <p>Posté le {{ article.locale_date }} par {{ article.author }}</p>
+    <p>Posté le {{ article.locale_date }} par {{ article.author }}
+    dans
+      <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+    </p>
+        {% if article.tags %}
+        <p class="tags">
+        <i class="fa fa-tags"> tags :</i>
+        {% for tag in article.tags %}
+        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+        {% endfor %}
+        </p>
+        {% endif %}
     <p>{{ article.icon }}</p>
   </header>
 
   <!-- One -->
-    <section class="wrapper style4 container">
+  <section class="wrapper style4 container">
 
-      <!-- Content -->
-        <div class="content">
-          <section>
-            <a href="#" class="image feature"><img src="images/{{ article.slug }}.jpg" alt="" /></a>
-            <h3>Posté dans <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></h3>
-            <p class="tags">
-            {% if article.tags %}
-              {% for tag in article.tags %}
-                <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-              {% endfor %}
-            {% endif %}</p>
-            <p>{{ article.content }}</p>
-          </section>
-        </div>
+    <!-- Content -->
+    <div class="content">
+      <section>
+        <!--
+          <a href="#" class="image feature"><img src="images/{{ article.slug }}.jpg" alt="" /></a>
+        -->
+        <p>{{ article.content }}</p>
+      </section>
+    </div>
 
-    </section>
+  </section>
 
-    <!-- Two -->
-    {% include 'most_recent.html' %}
+  <!-- Two -->
+  {% include 'most_recent.html' %}
 
-  </article>
+</article>
 
 {% if DISQUS_SITENAME %}
-  <div id="comments">
-      <h2 class="space-above">Commentaires</h2>
-      <div id="disqus_thread"></div>
-      <script type="text/javascript">
-          var disqus_identifier = "{{ article.url }}";
-          (function() {
-              var dsq = document.createElement('script');
-              dsq.type = 'text/javascript';
-              dsq.async = true;
-              dsq.src = 'http://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
-              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-          })();
-      </script>
-      <noscript>Activez le javascript pour voir les <a href="http://disqus.com/?ref_noscript">commentaires</a>.</noscript>
-  </div>
+<div id="comments">
+  <h2 class="space-above">Commentaires</h2>
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+var disqus_identifier = "{{ article.url }}";
+(function() {
+  var dsq = document.createElement('script');
+  dsq.type = 'text/javascript';
+  dsq.async = true;
+  dsq.src = 'http://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+  </script>
+  <noscript>Activez le javascript pour voir les <a href="http://disqus.com/?ref_noscript">commentaires</a>.</noscript>
+</div>
 {% endif %}
 
 {% endblock content %}
