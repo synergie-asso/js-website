@@ -2,15 +2,16 @@ Title: Programme
 
 ## Programme de **l'édition 2017**
 
-Voici les thèmes qui seront abordés lors de la prochaine édition des Journées
-Synergiques :
+Les Journées Synergiques auront lieu le deuxième samedi des mois de février,
+avril et juin. Voici les thèmes qui seront abordés lors de la prochaine
+édition :
 
 * 11 février 2017 : Réalisation d'un **jeu vidéo**
 * 8 avril 2017 : **Cryptographie**
 * 10 juin 2017 : Résolution d'un problème à l'aide d'une **intelligence
 artificielle** 
 
-Celle-ci s'étendra donc de janvier à juin, et la 2e édition de l'année débutera
+Celle-ci s'étendra donc de janvier à juin, la 2e édition de l'année débutant
 en septembre.
 
 ## Déroulement d'une Journée Synergique
