@@ -5,7 +5,7 @@ Title: Programme
 Voici les thèmes qui seront abordés lors de la prochaine édition des Journées
 Synergiques :
 
-* 12 février 2017 : Réalisation d'un **jeu vidéo**
+* 11 février 2017 : Réalisation d'un **jeu vidéo**
 * 8 avril 2017 : **Cryptographie**
 * 10 juin 2017 : Résolution d'un problème à l'aide d'une **intelligence
 artificielle** 
