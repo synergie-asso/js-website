@@ -14,16 +14,15 @@ Inscrivez vous en remplissant le formulaire accessible via
 ou bien directement en bas de cette page. Faites très attention lors
 de la saisie de vos coordonnées : vous recevrez un mail de notre part.
 
-## Autorisation parentale
+Tous les détails ainsi que les documents nécessaires vous seront
+envoyés par mail après réception de votre inscription. Ceux-ci seront à nous
+renvoyer à notre siège social :  
+Association Synergie à Epita  
+14-16 rue Voltaire  
+9420 Le Kremlin-Bicêtre
 
-Afin de pouvoir participer aux Journées Synergiques, l'élève
-doit se munir d'une autorisation signée par son représentant légal.
-Celle-ci vous sera envoyée par mail, et sera à imprimer en double : une
-copie sera à conserver pour vous, et l'autre sera à envoyer à Synergie.  
-
-Tous les détails vous seront envoyés par mail. Vous pouvez aussi les
-visualiser sur 
-[ce document]().
+En cas de problème, nous sommes à votre disposition à
+[contact@synergie.epita.fr](mailto:contact@synergie.epita.fr)
 
 ## S'inscrire en ligne 
 
