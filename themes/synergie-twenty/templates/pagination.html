@@ -6,7 +6,7 @@
             <header>
             {% if articles_page.has_previous() %}
                 {% if articles_page.previous_page_number() == 1 %}
-                    <a href="{{ SITEURL }}/{{ page_name }}.html">
+                    <a href="{{ SITEURL }}/{{ page_name }}.html#mes_articles">
                 {% else %}
                     <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html#mes_articles">
                 {% endif %}
