@@ -6,11 +6,9 @@ shrug: faq
 ## Où ont lieu les Journées Synergiques ? 
 Les Journées Synergiques ont lieu sur le campus de l’école EPITA (École pour
 l’Informatique et les Technologies Avancées), au Kremlin-Bicêtre. Des
-encadrants seront là pour vous accueillir chaque matin à partir de 8h30. 
-Adresse complète : 
-Synergie Association
-EPITA
-14-16 rue Voltaire
+encadrants seront là pour vous accueillir chaque matin à partir de 8h30 à
+l'adresse :  
+14-16 rue Voltaire  
 94270 Le Kremlin-Bicêtre
 
 
@@ -19,19 +17,22 @@ Ces Journées sont organisées par l’association Synergie. Ce projet est possi
 grâce à notre partenariat avec EPITA et nos différents sponsors.
 
 ## Quelles sont les dates des Journées ?
-[Accéder à la liste des Journées Synergiques prévues](/pages/programme.html)
+[Accéder à la liste des Journées Synergiques prévues](/js/pages/programme.html)
 lors des prochains mois, ainsi que leurs dates et les liens pour les
 inscriptions. Vous pouvez également trouver ce lien en cliquant sur l'onglet
 "Programme" en haut du site.
 
 
 ## Comment puis-je m’inscrire ? 
-Vous trouverez [sur cette page](/inscription.html) un formulaire d'inscription
+Vous trouverez [sur cette page](/js/inscription.html) un formulaire d'inscription
 aux prochaines Journées Synergiques. Vous pouvez également consulter [la liste
-des Journées Synergiques prévues](/pages/programme.html).
+des Journées Synergiques prévues](/js/pages/programme.html).
 
 Un Google Form est à remplir, avec vos coordonnées. Un document est également à
-imprimer et à renvoyer signé par le tuteur légal à l’adresse : ADRESSE EPITA
+imprimer et à renvoyer signé par le tuteur légal à notre siège social :
+Association Synergie Epita  
+14-16 rue Voltaire  
+94270 Kremlin-Bicêtre, France
 
 
 ## Puis-je m’inscrire ? 
