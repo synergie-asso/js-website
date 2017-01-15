@@ -49,7 +49,7 @@ sponsors.
 
 ## Comment puis-je vous contacter ? 
 Pour des questions liées aux Journées Synergiques, n’hésitez pas à nous
-contacter à synergieepita@gmail.com.
+contacter à contact@synergie.epita.fr.
 
 ## Quels sont les horaires ?
 Les Journées Synergiques commencent à 9h et se terminent à 18h. Des encadrants

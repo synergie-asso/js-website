@@ -41,4 +41,4 @@ SOCIAL = (('github', 'http://github.com/synergie-asso'),
         ('facebook', 'http://facebook.com/synergie.io'),
         ('twitter', 'http://twitter.com/synergieio')
         )
-MAIL_CONTACT = "synergieepita@gmail.com"
+MAIL_CONTACT = "contact@synergie.epita.fr"
