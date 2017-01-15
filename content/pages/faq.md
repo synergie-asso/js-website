@@ -19,16 +19,16 @@ Ces Journées sont organisées par l’association Synergie. Ce projet est possi
 grâce à notre partenariat avec EPITA et nos différents sponsors.
 
 ## Quelles sont les dates des Journées ?
-[Accéder à la liste des Journées Synergiques prévues](pages/programme.html)
+[Accéder à la liste des Journées Synergiques prévues](/pages/programme.html)
 lors des prochains mois, ainsi que leurs dates et les liens pour les
 inscriptions. Vous pouvez également trouver ce lien en cliquant sur l'onglet
 "Programme" en haut du site.
 
 
 ## Comment puis-je m’inscrire ? 
-Vous trouverez [sur cette page](inscription.html) un formulaire d'inscription
+Vous trouverez [sur cette page](/inscription.html) un formulaire d'inscription
 aux prochaines Journées Synergiques. Vous pouvez également consulter [la liste
-des Journées Synergiques prévues](pages/programme.html).
+des Journées Synergiques prévues](/pages/programme.html).
 
 Un Google Form est à remplir, avec vos coordonnées. Un document est également à
 imprimer et à renvoyer signé par le tuteur légal à l’adresse : ADRESSE EPITA
