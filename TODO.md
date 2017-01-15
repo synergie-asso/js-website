@@ -3,7 +3,8 @@
 ## Prio 1
 
 - Add content: FAQ & article ==> update index with the different articles
-- Remove lorem ipsum for categories
+- Fix links in FAQ
+- Fix date of the JV JS
 - Find a way to have the date in FR
 - Add links to gform & document of procedure in content/signup.md
 
