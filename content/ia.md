@@ -12,7 +12,7 @@ Des robots armés à la frontière coréenne, un logiciel capable de battre le c
 C’est un programme informatique qui a pour but de reproduire au mieux
 l’intellect humain, selon les évènements se produisant dans son environnement.
 Quand on parle d’intelligence artificielle, on pense principalement aux jeux
-vidéos et leurs personnages dirigés par l’ordinateur. Mais, l’intelligence
+vidéo et leurs personnages dirigés par l’ordinateur. Mais, l’intelligence
 artificielle ne se limite pas à cela. Nous avons par exemple, des intelligences
 artificielles meilleures que les humains aux échecs ou bien la voiture de
 Google qui se conduit toute seule sans chauffeur.

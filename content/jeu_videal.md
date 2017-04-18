@@ -6,7 +6,7 @@ Date: 2016-11-21
 Author: Elise Schravendeel
 
 # C'est quoi, un jeu vidéo ?
-Les jeux vidéos existent depuis le milieu des années 50. C’est devenu pour la plupart d’entre
+Les jeux vidéo existent depuis le milieu des années 50. C’est devenu pour la plupart d’entre
 nous notre quotidien pour nous divertir. Bouger un personnage, se balader dans des mondes
 fantastiques, jouer en ligne avec ses amis est devenu simple comme bonjour!
 
