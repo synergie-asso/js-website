@@ -27,6 +27,8 @@ RELATIVE_URLS = True
 USE_FOLDER_AS_CATEGORY = True
 DISPLAY_PAGES_ON_MENU = True
 
+STATIC_PATHS = ['files']
+
 # Theme-related
 def sidebar(value):
   if value.startswith('archives') or value.startswith('category'):
