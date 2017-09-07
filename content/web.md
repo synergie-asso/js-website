@@ -1,6 +1,6 @@
 Title: Site Web
-tags: js, web, 2017
-category: 2017
+tags: js, web, 2017, 2018
+category: 2018
 Slug: web
 Date: 2016-11-21
 Author: Juliette Garreau

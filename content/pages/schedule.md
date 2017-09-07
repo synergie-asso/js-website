@@ -1,14 +1,15 @@
 Title: Programme
 
-## Programme de **l'édition 2017**
+## Programme de **l'édition 2018**
 
-Les Journées Synergiques auront lieu le deuxième samedi des mois de février,
+Les Journées Synergiques auront lieu les samedis des mois de janvier, mars
 avril et juin. Voici les thèmes qui seront abordés lors de la prochaine
 édition :
 
-* 11 février 2017 : Réalisation d'un **jeu vidéo**
-* 8 avril 2017 : **Cryptographie**
-* 17 juin 2017 : Résolution d'un problème à l'aide d'une **intelligence
+* 13 janvier 2018 : Réalisation d'un **jeu vidéo**
+* 10 mars 2018 : Réalisation d'une page **Web**
+* 7 avril 2018 : Programmation de **robots**
+* 2 juin 2018 : Résolution d'un problème à l'aide d'une **intelligence
 artificielle** 
 
 Celle-ci s'étendra donc de janvier à juin, la 2e édition de l'année débutant
@@ -27,5 +28,7 @@ Le déroulement type d'une Journée Synergique est le suivant :
 * 16h : Pause goûter et activités
 * 18h : Fin de la journée et départ avec les parents, jeux de société
 
-Les activités permettront aux élèves d'avoir une pause au milieu de leurs apprentissages. Celles-ci seront variées, du jeu de société aux activités sportives, et seront possibles grâce à l'implication d'autres association de notre école tel que Antre et Episport.
+Les activités permettront aux élèves d'avoir une pause au milieu de leurs
+apprentissages. Celles-ci seront variées, du jeu de société aux activités
+sportives, et seront possibles grâce à l'implication d'autres associations de notre école tel que Antre et Episport.
 

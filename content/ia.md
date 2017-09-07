@@ -1,6 +1,6 @@
 Title: Intelligence Artificielle
-tags: js, 2017, intelligence, artificielle, ia, ai
-category: 2017
+tags: js, 2017, intelligence, artificielle, ia, ai, 2018
+category: 2018
 Slug: ia
 Date: 2016-12-19
 Author: Arnaud Gussago

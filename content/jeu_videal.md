@@ -1,6 +1,6 @@
 Title: Jeu Vidéo
-tags: js, 2017, jeu, vidéo
-category: 2017
+tags: js, 2017, jeu, vidéo, 2018
+category: 2018
 Slug: jeu-vidéo
 Date: 2016-11-21
 Author: Elise Schravendeel
@@ -21,4 +21,4 @@ très peu aux maths, et qui est simple et fun à réaliser.
 
 # C'est quand ?
 
-Rendez-vous à la Journée Synergique du 11 février 2017 pour réaliser le vôtre!
+Rendez-vous à la Journée Synergique du 13 janvier 2018 pour réaliser le vôtre!

@@ -1,6 +1,6 @@
 Title: Ouverture des inscriptions
-tags: inscription, js, 2017
-category: 2017
+tags: inscription, js, 2017, 2018
+category: 2018
 slug: inscription
 Date: 2016-11-30
 Author: Laure Daumal
