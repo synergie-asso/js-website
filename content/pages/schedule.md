@@ -6,10 +6,10 @@ Les Journées Synergiques auront lieu les samedis des mois de janvier, mars
 avril et juin. Voici les thèmes qui seront abordés lors de la prochaine
 édition :
 
-* <!-- 13 janvier 2018 : --> Réalisation d'un **jeu vidéo**
-* <!-- 10 mars 2018 :   --> Réalisation d'une page **Web**
-* <!-- 7 avril 2018 :   --> Programmation de **robots**
-* <!-- 2 juin 2018 :    --> Résolution d'un problème à l'aide d'une **intelligence
+*  13 janvier 2018 : Réalisation d'un **jeu vidéo**
+*  10 mars 2018 : Réalisation d'une page **Web**
+*  7 avril 2018 : Programmation de **robots**
+*  2 juin 2018 : Résolution d'un problème à l'aide d'une **intelligence
 artificielle** 
 
 Celle-ci s'étendra donc de janvier à juin, pour cette 2e édition.
