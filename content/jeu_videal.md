@@ -21,4 +21,4 @@ très peu aux maths, et qui est simple et fun à réaliser.
 
 # C'est quand ?
 
-Rendez-vous à la Journée Synergique du 13 janvier 2018 pour réaliser le vôtre!
+Rendez-vous à la Journée Synergique du 20 janvier 2018 pour réaliser le vôtre!
