@@ -8,9 +8,9 @@ avril et juin. Voici les thèmes qui seront abordés lors de la prochaine
 
 *  20 janvier 2018 : Réalisation d'un **jeu vidéo**
 *  24 février 2018 : Réalisation d'une page **Web**
-*  17 mars 2018 : Programmation de **robots**
-*  19 mai 2018 : Résolution d'un problème à l'aide d'une **intelligence
+*  17 mars 2018 : Résolution d'un problème à l'aide d'une **intelligence
 artificielle** 
+*  19 mai 2018 : Programmation de **robots**
 
 Celle-ci s'étendra donc de janvier à mai, pour cette 2e édition.
 
