@@ -30,6 +30,7 @@
 
 		header.major {
 			padding-bottom: 0;
+      background-image: none;
 		}
 
 		header.special {
@@ -163,3 +164,9 @@
 	#footer {
 		padding: 3em 1.5em;
 	}
+
+
+  #skel-layers-inactiveWrapper{
+        display:none!important;
+  }
+
