@@ -59,3 +59,8 @@
 	#footer {
 		padding: 4em;
 	}
+  
+  
+  #skel-layers-inactiveWrapper{
+        display:none!important;
+  }
