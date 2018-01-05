@@ -2,8 +2,8 @@ Title: Programme
 
 ## Programme de **l'édition 2018**
 
-Les Journées Synergiques auront lieu les samedis des mois de janvier, mars
-avril et juin. Voici les thèmes qui seront abordés lors de la prochaine
+Les Journées Synergiques auront lieu les samedis des mois de janvier, février,
+mars et mai. Voici les thèmes qui seront abordés lors de la prochaine
 édition :
 
 *  20 janvier 2018 : Réalisation d'un **jeu vidéo**
